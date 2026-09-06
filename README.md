@@ -1,4 +1,4 @@
-# GenAPI
+# Axiom-SIH26089
 
 GenAPI is a Go-based API boilerplate designed for scalability and modularity.
 
@@ -15,8 +15,8 @@ GenAPI is a Go-based API boilerplate designed for scalability and modularity.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pegasis1002/GenAPI.git
-   cd genapi
+   git clone https://github.com/Axiom/Axiom-SIH26089.git
+   cd Axiom-SIH26089
    ```
 
 2. Download dependencies:
@@ -46,7 +46,7 @@ docker-compose up --build
 
 ## Documentation
 
-Full documentation is available in the [GitHub Wiki](https://github.com/Pegasis1002/GenAPI/wiki).
+Full documentation is available in the [GitHub Wiki](https://github.com/Axiom/Axiom-SIH26089/wiki).
 
 ## Contributing
 
